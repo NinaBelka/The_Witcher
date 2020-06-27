@@ -197,7 +197,7 @@ button:active {
   display: flex;
   align-items: center;
   margin-bottom: 60px;
-  max-width: 410px;
+  max-width: 432px;
 }
 
 .card {
@@ -230,7 +230,7 @@ button:active {
 }
 
 .swiper-container {
-  max-width: 410px;
+  max-width: 400px;
   margin-left: 0;
 }
 

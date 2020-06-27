@@ -197,7 +197,7 @@ button:active {
   display: flex;
   align-items: center;
   margin-bottom: 60px;
-  max-width: 420px;
+  max-width: 410px;
 }
 
 .card {
@@ -451,7 +451,7 @@ button:active {
   }
 
   .main-content {
-    margin-top: 196px;
+    padding-top: 236px;
   }
 
   .main-title {

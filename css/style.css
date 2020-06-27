@@ -380,6 +380,7 @@ button:active {
 
   .menu-button-active {
     height: 0;
+    z-index: 4;
   }
 
   .menu-button-active:before {
@@ -410,6 +411,7 @@ button:active {
     width: 250px;
     padding: 40px;
     margin-bottom: 0;
+    z-index: 2;
   }
 
   .header-active {
@@ -441,6 +443,14 @@ button:active {
     margin-left: 0;
   }
 
+  .main-content {
+    padding-top: 135px;
+  }
+
+  .main-title {
+    font-size: 56px;
+  }
+
   .swiper-container {
     width: 80%;
     margin-left: 0;
@@ -448,14 +458,6 @@ button:active {
 
   .series {
     width: 80%;
-  }
-
-  .main-content {
-    padding-top: 236px;
-  }
-
-  .main-title {
-    font-size: 56px;
   }
 
   .footer-content {

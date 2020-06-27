@@ -7,10 +7,11 @@ const mySwiper = new Swiper('.swiper-container', {
   breakpoints: {
     560: {
       slidesPerView: 2,
-    },
+    }
   }
 
 });
+
 
 const menuButton = document.querySelector('.menu-button');
 const menu = document.querySelector('.header');
